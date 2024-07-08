@@ -1,7 +1,7 @@
 <h1 align="center">I am Serena</h1>
 <h3 align="center">I build solutions</h3>
 
-- 📫 How to reach me **serenasamuel895@gmail.com**
+- 📫 Reach me on  **serenasamuel895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
